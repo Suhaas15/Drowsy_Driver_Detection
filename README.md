@@ -215,11 +215,6 @@ Usually yes, but accuracy can vary with reflections. Use dlib landmarks and dece
 
 ---
 
-## 📝 License
-MIT (or your preferred license).
-
----
-
 ## 🙌 Acknowledgements
 - OpenCV (cv2) and the dlib community
 - Twilio for the developer-friendly SMS API
