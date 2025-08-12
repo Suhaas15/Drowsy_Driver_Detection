@@ -7,7 +7,7 @@ Real-time computer-vision app that detects driver drowsiness from a webcam feed 
 
 ## 📸 Demo Screenshot
 
-![Demo](assets/demo.png "Live detection with AWAKE/DROWSY badge")
+![Demo](Assets/demo.png "Live detection with AWAKE/DROWSY badge")
 
 ---
 
